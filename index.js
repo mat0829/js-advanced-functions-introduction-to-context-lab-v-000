@@ -24,4 +24,5 @@ let createTimeInEvent = function(employee, dateStamp) {
     hour: parseInt(hour, 10),
     date
   })
+  return employee
 }
