@@ -20,6 +20,6 @@ let createEmployeeRecords = function(employeeRowData) {
 let createTimeInEvent = function(employee, dateStamp) {
   let [date, hour] = dateStamp.split(' ')
   employee.timeInEvents.push({
-    type: 
+    type: "timeIn"
   })
 }
