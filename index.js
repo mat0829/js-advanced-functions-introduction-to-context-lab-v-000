@@ -10,3 +10,5 @@ let createEmployeeRecord = function(row) {
     timeOutEvents: []
   }
 }
+
+let createEmployeeRecords = function(row)
