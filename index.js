@@ -17,6 +17,6 @@ let createEmployeeRecords = function(employeeRowData) {
   })
 }
 
-let createTimeInEvent = function(employee, dataStamp) {
-  let [data
+let createTimeInEvent = function(employee, dateStamp) {
+  let [date, hour] = dateStamp
 }
