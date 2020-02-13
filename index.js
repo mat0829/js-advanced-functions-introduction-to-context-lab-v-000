@@ -16,3 +16,7 @@ let createEmployeeRecords = function(employeeRowData) {
     return createEmployeeRecord(row)
   })
 }
+
+let createTimeInEvent = function(employeeRowData) {
+  return
+}
