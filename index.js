@@ -2,6 +2,6 @@
 
 let createEmployeeRecord = function(row) {
   return {
-    first
+    firstName: 
   }
 }
