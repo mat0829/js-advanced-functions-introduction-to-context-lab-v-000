@@ -49,6 +49,3 @@ let hoursWorkedOnDate = function(employee, dateWorked) {
   return (timeOutEvent.hour - timeInEvent.hour) / 100
 }
 
-let wagesEarnedOnDate = function(employee, dateWorked) {
-  
-}
