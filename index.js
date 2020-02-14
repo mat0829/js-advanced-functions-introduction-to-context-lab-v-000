@@ -55,6 +55,6 @@ let wagesEarnedOnDate = function(employee, dateWorked) {
   return parseFloat(rawWage.toString())
 }
 
-let allWagesFor = function(employee, dateWorked) {
+let allWagesFor = function(employee) {
   
 }
