@@ -60,5 +60,7 @@ let allWagesFor = function(employee) {
     return event.date
   })
   
-  let totalWages = datesWorked.reduce()
+  let totalWages = datesWorked.reduce(function(){
+    
+  })
 }
