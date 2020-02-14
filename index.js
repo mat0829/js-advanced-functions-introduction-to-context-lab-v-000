@@ -56,5 +56,5 @@ let wagesEarnedOnDate = function(employee, dateWorked) {
 }
 
 let allWagesFor = function(employee) {
-  
+  let datesWorked = employee.
 }
