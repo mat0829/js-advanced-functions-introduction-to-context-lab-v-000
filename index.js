@@ -46,5 +46,5 @@ let hoursWorkedOnDate = function(employee, workDate) {
     return event.date === workDate
   })
   
-  return ()
+  return (timeInEvent - timeOutEvent)
 }
