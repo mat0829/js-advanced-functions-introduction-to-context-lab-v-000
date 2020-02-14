@@ -68,6 +68,6 @@ let allWagesFor = function(employee) {
   return totalWages
 }
 
-let calculatePayroll = function() {
+let calculatePayroll = function(arrayOfEmployeeRecords) {
   
 }
