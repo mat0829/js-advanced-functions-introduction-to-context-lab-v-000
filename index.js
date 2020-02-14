@@ -69,6 +69,8 @@ let allWagesFor = function(employee) {
 }
 
 let calculatePayroll = function(arrayOfEmployeeRecords) {
-  return 
+  return arrayOfEmployeeRecords.reduce(memo, record) {
+    return memo = record
+  }
 }
 }
