@@ -52,5 +52,5 @@ let hoursWorkedOnDate = function(employee, dateWorked) {
 let wagesEarnedOnDate = function(employee, dateWorked) {
   let rawWage = hoursWorkedOnDate(employee, dateWorked)
       * employee.payPerHour
-  return parseFloat(rawWage.to_string)
+  return parseFloat(rawWage.toString())
 }
