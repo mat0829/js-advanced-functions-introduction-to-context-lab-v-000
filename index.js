@@ -65,4 +65,5 @@ let allWagesFor = function(employee) {
     return memo + wagesEarnedOnDate(employee, date)
   }, 0)
   return totalWages
+  
 }
