@@ -45,4 +45,6 @@ let hoursWorkedOnDate = function(employee, workDate) {
   let timeOutEvent = employee.timeOutEvents.find(function(event){
     return event.date === workDate
   })
+  
+  return ()
 }
