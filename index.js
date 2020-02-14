@@ -54,3 +54,7 @@ let wagesEarnedOnDate = function(employee, dateWorked) {
       * employee.payPerHour
   return parseFloat(rawWage.toString())
 }
+
+let allWagesFor = function(employee, dateWorked) {
+  
+}
